@@ -1,6 +1,6 @@
 <h1>Interruptor</h1>
 
-> Status: em progresso. ⚠️
+> Status: concuido. 💡
 
 ### interruptor 
 Este código utiliza a biblioteca tkinter e a biblioteca PIL para criar uma interface gráfica simples que simula o acionamento de interruptores de lâmpadas.
